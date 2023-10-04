@@ -159,7 +159,7 @@ Note: the foreign table `pg_milan_tbl` is declared as partition of the `TEST` ta
 
 We need to do the same for the other databases in London and Madrid, you can find below the full script (remember to change `host`, `port`, `dbname` and `password`).
 
-```
+```sql
 CREATE SERVER pg_madrid
         FOREIGN DATA WRAPPER postgres_fdw
         OPTIONS (host 'pg-madrid-project-name.aivencloud.com', port '18025', dbname 'defaultdb');
