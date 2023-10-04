@@ -218,7 +218,11 @@ INSERT INTO TEST (description, country) values ('test 4 should land in London', 
 
 The result should be similar to this video:
 
-https://github.com/Aiven-Labs/postgresql-sharding-with-fdw/assets/11272743/00259088-1835-42b1-8469-ae66ca6a6629
+
+
+https://github.com/Aiven-Labs/postgresql-sharding-with-fdw/assets/11272743/4829a0ce-5d72-44f1-821f-7d488ff16215
+
+
 
 License
 ============
