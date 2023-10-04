@@ -130,12 +130,12 @@ Which will provide a json output like the following:
 
 ```json
 {
-    'dbname': 'defaultdb', 
-    'host': 'pg-milan-project-name.aivencloud.com', 
-    'password': 'PSW123', 
-    'port': '18025', 
-    'sslmode': 'require', 
-    'user': 'avnadmin'
+    "dbname": "defaultdb", 
+    "host": "pg-milan-project-name.aivencloud.com", 
+    "password": "PSW123", 
+    "port": "18025", 
+    "sslmode": "require", 
+    "user": "avnadmin"
 }
 ```
 
