@@ -211,13 +211,14 @@ INSERT INTO TEST (description, country) values ('test 2 should land in Madrid', 
 INSERT INTO TEST (description, country) values ('test 3 should land in Milan', 'MI');
 ```
 
+
 ```sql
 INSERT INTO TEST (description, country) values ('test 4 should land in London', 'LO');
 ```
 
 The result should be similar to this video:
 
-![Video showing sharding in action](video/sharding_pg.mov)
+https://github.com/Aiven-Labs/postgresql-sharding-with-fdw/assets/11272743/00259088-1835-42b1-8469-ae66ca6a6629
 
 License
 ============
