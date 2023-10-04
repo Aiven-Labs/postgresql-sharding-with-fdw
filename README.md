@@ -217,7 +217,7 @@ INSERT INTO TEST (description, country) values ('test 4 should land in London', 
 
 The result should be similar to this video:
 
-![Video showing sharding in action](video/sharding_pg.mp4)
+![Video showing sharding in action](video/sharding_pg.mov)
 
 License
 ============
