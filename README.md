@@ -1,6 +1,6 @@
 # PostgreSQL® data sharding with Foreign Data Wrappers
 
-Sharding in PostgreSQL is available in a number of different ways, including using extensions like [citus](https://github.com/citusdata/citus). This example shows how to perform data sharding it using PostgreSQL [Foreign Data Wrappers](https://www.postgresql.org/docs/current/postgres-fdw.html) (FDW).
+Sharding in PostgreSQL® is available in a number of different ways, including using extensions like [citus](https://github.com/citusdata/citus). This example shows how to perform data sharding it using PostgreSQL [Foreign Data Wrappers](https://www.postgresql.org/docs/current/postgres-fdw.html) (FDW).
 
 ![Sharding architecture with a Primary Database sitting in Frankfurt storing data in other databases located in London, Madrid and Milan](img/sharding_architecture.png)
 
